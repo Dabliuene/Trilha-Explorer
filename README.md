@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar!](https://dabliuene.github.io/nlw-esports-explorer/)
+🔗 [Clique aqui para acessar!](https://dabliuene.github.io/nlw-esports-explorer/)
 
 ## 🧰 Tecnologias
 
@@ -14,4 +14,6 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
+## 💡 Contato
 
+walsonathan@gmail.com
